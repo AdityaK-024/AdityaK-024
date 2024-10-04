@@ -4,7 +4,6 @@
 - 📫 How to reach me 
 - ⚡ Fun fact: 
 [![An image of @adityak024's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityak024)](https://holopin.io/@adityak024)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityak024&layout=compact)
 
 <!---
 AdityaK-024/AdityaK-024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
